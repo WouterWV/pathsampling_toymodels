@@ -1,11 +1,11 @@
-# pathsampling_toymodels
-
 Toy models used to benchmark path sampling methodologies. 
 
-1. ibuprofenDOPC
+## ibuprofenDOPC
 
 Implements the potential energy function and forces of ibuprofen in a DOPC bilayer, to be used in PyRETIS. 
+Also includes the necessary files to start the REPPTIS simulation using 'pyretisrun -i retis.rst'.
 
-2. maze
+## maze
 
-Implements the potential energy function and forces of custom pixel mazes, to be used in PyRETIS.
+Implements the potential energy function and forces of custom pixel mazes, to be used in PyRETIS. 
+Also includes the necessary files to start the REPPTIS simulation using 'pyretisrun -i retis.rst'.
